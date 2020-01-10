@@ -36,4 +36,4 @@ async def leave(e):
 
         else:
 
-            await e.edit('`Sir This is Not A Chat`')
+            await e.edit('`My peru OWnEr is successfully leave this chat`')
